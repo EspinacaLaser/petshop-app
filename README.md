@@ -33,9 +33,3 @@ La aplicación utiliza **React** para manejar el DOM de manera eficiente. Los co
 - **CSS**: Para los estilos de la aplicación.
 - **React Router**: Para la navegación entre páginas.
 - **Context API**: Para el manejo del estado global.
-
-## Cómo ejecutar el proyecto
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/petshop-app.git
